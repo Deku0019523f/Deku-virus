@@ -8,11 +8,12 @@
 
 <h4>Tool by <strong>Deku virus</strong></h4>
 
-![Screenshot_20201107-163215~2_compress68]([https://raw.githubusercontent.com/Deku0019523f/Deku-virus/main/logo.png])
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Deku0019523f/Traceur-osint/main/logo.png" width="150" alt="Logo OSINT">
+</p>
 *For more details see my youtube channel 
 
-*Click :- [The Devil Tigers](https://www.youtube.com/c/thmalayalam)
+*Click :- [The DEKU VIRUS](https://www.youtube.com/c/Deku_225)
 
 <h3>How to run this Tool "Tiger Virus"</h3>
 
@@ -39,19 +40,7 @@ copy and past on whatsapp and sent if Text
 
 *Enjoy*
 
-<h4>Screenshots </h4>
 
-![Screenshot_20210401-111946](https://user-images.githubusercontent.com/69100349/113250775-c591e500-92de-11eb-8442-ced8319793f4.png)
-
-
-
-![Screenshot_20210401-111957](https://user-images.githubusercontent.com/69100349/113250952-1570ac00-92df-11eb-846f-7e583aaa44a1.png)
-
-![Capture 2020-11-07 20 29 57](https://user-images.githubusercontent.com/69100349/98444702-2571ce80-2139-11eb-82e3-50daac2c9e62.jpg)
-
-![Capture 2020-11-07 20 34 39](https://user-images.githubusercontent.com/69100349/98444733-4df9c880-2139-11eb-8c83-a928e5c2d0b8.jpg)
-
-![Capture 2020-11-07 20 35 37](https://user-images.githubusercontent.com/69100349/98444754-741f6880-2139-11eb-9a1e-8bcba51a76f8.jpg)
 
 <h3>2 options at First </h3>
 
@@ -85,11 +74,11 @@ When Any One Install It. Their Phone Will Be Damaged and Reset!
 
 <h5>Testing</h5> 
 
-*script by THE DEVIL TIGERS
+*script by THE DEKU225
 
-*Owner Of Tiger Virus : ASHIK K I 
+*Owner Of Deku Virus : DEKU225
 
-©[The Devil Tigers](https://www.youtube.com/c/thmalayalam)
+©[The Deku virus](https://www.youtube.com/c/Deku_225)
 
 <h3>FOR EDUCATIONAL PURPOSE ONLY</h3>
 
