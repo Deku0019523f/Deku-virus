@@ -29,7 +29,7 @@ $ pkg install git -y
 
 $ git clone https://github.com/Deku0019523f/Deku-virus.git
 
-$ cd TigerVirus
+$ cd Deku-virus
 
 $ bash TigerVirus.sh
 
