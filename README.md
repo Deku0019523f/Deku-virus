@@ -41,11 +41,11 @@ copy and past on whatsapp and sent if Text
 
 <h3>2 options at First </h3>
 
-*1) Virus Applications (new 2021 ) 
+*1) Applications antivirus (nouveauté 2021) 
 
-When Any One Install It. Their Phone Will Be Damaged and Reset!
+Lorsque vous l'installez, votre téléphone sera endommagé et réinitialisé !
 
-*2) Virus Messeges For Whatsapp And Other Chat Apps !
+*2) Messages antivirus pour WhatsApp et autres applications de chat !
 
 <h4>4 options</h4>
 
@@ -55,13 +55,14 @@ When Any One Install It. Their Phone Will Be Damaged and Reset!
 
  
 
-*Minimum Range for (under 2GB Ram Mobile Phones)
+*Portée minimale pour les téléphones portables de moins de 2 Go de RAM
 
-*Medium Range for (More than 2GB Ram Mobile Phones)
+*Portée moyenne pour les téléphones portables de plus de 2 Go de RAM
 
-*Maximum Range for (4GB Ram or More than 4GB Mobile phones)
+*Portée maximale pour les téléphones portables de 4 Go de RAM ou plus
 
-*Tiger Power Bomb for (4GB+ Ram mobile phones)
+*Tiger Power Bomb pour les téléphones portables de 4 Go de RAM et plus
+
 
 <h5>10 Types of virus bomb messages in every option</h5> 
 
@@ -70,6 +71,11 @@ When Any One Install It. Their Phone Will Be Damaged and Reset!
 <h5>1 Tiger power message </h5>
 
 <h5>Testing</h5> 
+
+## 📸 Aperçu du script
+
+![Capture du script](screenshot.png)
+
 
 *script by THE DEKU225
 
