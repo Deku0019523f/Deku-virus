@@ -293,7 +293,7 @@ then
 bash app.sh
 elif [ $be -eq 2 ]
 then
-bash TigerVirus.sh
+bash DekuVirus.sh
 echo -e "\e[39m"
 else
 echo -e "\e[39m"
