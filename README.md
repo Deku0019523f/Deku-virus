@@ -13,7 +13,7 @@
 </p>
 *For more details see my youtube channel 
 
-*Click :- [The DEKU VIRUS](https://www.youtube.com/c/Deku_225)
+*Click :- [The DEKU VIRUS](https://youtube.com/@deku_225_hack?si=UuW3SmuYzxDcXsdf)
 
 <h3>How to run this Tool "Tiger Virus"</h3>
 
